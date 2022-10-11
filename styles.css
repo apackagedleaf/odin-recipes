@@ -1,0 +1,12 @@
+.center {
+    text-align: center;
+    color: purple;
+    background-color: goldenrod;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
