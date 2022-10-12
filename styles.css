@@ -1,12 +1,38 @@
+.body {
+    background-color: #942ead8a
+}
+
 .center {
     text-align: center;
-    color: purple;
-    background-color: goldenrod;
+    color: black;
+    background-color: rgb(182, 59, 59);
+    font-family: cursive,sans-serif;
+    font-size: 60px;   
+}
+
+.center.two {
+    text-align: left;
+    background-color: transparent;
+    text-decoration-line: underline;
 }
 
 .image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: auto;
+    border-style:solid
+}
+
+.back {
+    border: #942ead8a;
+}
+
+.list {
+    font-size: 24px;
+}
+
+.text {
+    font-size: large;
+    font-weight: bold;
 }
